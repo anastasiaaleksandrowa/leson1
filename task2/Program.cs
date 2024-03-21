@@ -25,3 +25,6 @@ Console.WriteLine(guotient);
 
 double guotient1 =i1/d1;
 Console.WriteLine(guotient1);
+
+double guotient2 =(l1*i1)/(i1+d1);
+Console.WriteLine(guotient2);
