@@ -1,24 +1,24 @@
-﻿int a = 5;
-int b = 3;
-int c = 34;
-int d = 6;
-int c = 2;
+﻿int a = 5 ;
+int b = 3 ;
+int c = 34 ;
+int d = 6 ;
+int c = 2 ;
 
-int max = a;
+int max = a ;
 if (b > max)
 {
-    max = b;
+    max = b ;
 }
 if (c > max)
 {
-    max = c;
+    max = c ;
 }
 if (d > max)
 {
-    max = d;
+    max = d ;
 }
 if (e > max)
 {
-    max = e;
+    max = e ;
 }
-console.writeline(max);
+console.writeline(max) ;

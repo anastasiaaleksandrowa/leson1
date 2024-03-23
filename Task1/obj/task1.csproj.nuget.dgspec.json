@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\task1\\task1.csproj": {}
+    "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\Task1\\task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\task1\\task1.csproj": {
+    "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\Task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\Task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\task1\\task1.csproj",
+        "projectPath": "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\Task1\\task1.csproj",
         "packagesPath": "C:\\Users\\Kira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\task1\\obj\\",
+        "outputPath": "C:\\Users\\Kira\\OneDrive\\Рабочий стол\\разработчик\\c#\\leson 1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kira\\AppData\\Roaming\\NuGet\\NuGet.Config"
